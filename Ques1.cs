@@ -11,7 +11,7 @@ class Question1
             Console.WriteLine("The height of the traingle must be greater than 0");
         }
 
-        PrintTriangle(height);
+        printTriangle(height);
 
         Console.ReadLine(); 
     }
